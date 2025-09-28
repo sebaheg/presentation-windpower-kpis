@@ -294,8 +294,8 @@ onMounted(() => {
   script.onload = () => {
     const data = [{
       type: "waterfall",
-      x: ["Perfect spot", "Production", "DA trading", "ID trading", "Flex trading"],
-      y: [100, -8, -20, 4, 2],
+      x: ["Average capture", "Perfect spot", "Production", "DA trading", "ID trading", "Flex trading"],
+      y: [100, -35, -8, -20, 4, 2],
     }]
     const layout = {
       margin: { t: 0, r: 20, b: 40, l: 40 }
