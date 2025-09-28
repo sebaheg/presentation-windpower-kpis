@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",                 
+    "build": "slidev build",                       
+    "build:gh": "slidev build --base=/presentation-windpower-kpis/", 
+    "preview": "vite preview --host"                
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.2.4",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.21"
+  }
+}
