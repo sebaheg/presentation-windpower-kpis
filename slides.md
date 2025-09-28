@@ -314,7 +314,7 @@ onMounted(() => {
 
 <div class="space-y-8">
   <h2 v-click>1) Using a "perfect vs actual" approach also for ID and Flex trading?</h2>
-  <h2 v-click>2) Include more aspects of the chain like merchant exposure vs bilateral (PPAs) trading?</h2>
+  <h2 v-click>2) Include more aspects of the chain like availability/maintenance and merchant exposure vs bilateral (PPAs) trading?</h2>
   <h2 v-click>3) KPIs for hybrid parks?</h2>
 </div>
 
