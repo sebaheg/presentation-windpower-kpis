@@ -30,7 +30,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build (GitHub Pages base)
-        run: pnpm exec slidev build --base=/presentation-jamtkraft/
+        run: pnpm exec slidev build --base=/presentation-windpower-kpis/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
