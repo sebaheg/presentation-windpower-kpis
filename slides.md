@@ -113,7 +113,7 @@ image: https://images.unsplash.com/photo-1594389615321-4f50c5d7878c?q=80&w=1740&
 .swap > * { grid-area: 1 / 1; }
 </style>
 
-### Capital expenditurs (CapEx)
+### Capital expenditures (CapEx)
 - Development costs
 - Hardware costs
 
@@ -131,7 +131,7 @@ image: https://images.unsplash.com/photo-1594389615321-4f50c5d7878c?q=80&w=1740&
 
 <br>
 
-### Operating expenditurs (OpEx)
+### Operating expenditures (OpEx)
 - Land use
 - Grid costs
 - <span class="swap">
